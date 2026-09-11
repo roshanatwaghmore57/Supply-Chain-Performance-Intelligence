@@ -25,9 +25,7 @@ The analysis focuses on:
 
 ## 🎯 Objective
 
-To analyze supply chain performance using SQL and Power BI and identify suppliers, products, routes, and regions contributing to delivery delays, high transportation costs, and quality issues.
-
-> Note: The available dataset version does not contain all fields mentioned in the original project brief, such as supplier-level defect rate and product availability. Therefore, the implemented analysis focuses on the fields available in the downloaded dataset.
+To analyze supply chain performance using SQL and Power BI and identify products, shipping modes, and regions contributing to delivery delays and operational performance issues.
 
 ---
 
