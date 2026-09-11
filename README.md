@@ -25,6 +25,7 @@ The analysis focuses on:
 
 ## 🎯 Objective
 
+
 To analyze supply chain performance using SQL and Power BI and identify products, shipping modes, and regions contributing to delivery delays and operational performance issues.
 
 ---
