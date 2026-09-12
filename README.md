@@ -39,11 +39,6 @@ The project aims to answer the following business questions:
 3. Which regions experience the highest delivery delays?
 4. Which products have the highest order volume?
 5. Which products generate the highest profit?
-6. Which regions generate the highest profit?
-7. Which shipping modes have the highest average delivery gap?
-8. Which products have the highest late-delivery rate?
-9. How does actual shipping time compare with scheduled shipping time?
-10. Which shipping modes generate the highest sales and profit?
 
 ---
 
