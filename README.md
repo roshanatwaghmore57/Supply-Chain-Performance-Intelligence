@@ -86,3 +86,20 @@ Interactive Dashboard
 Business Insights
      ↓
 Recommendations
+
+## DAX Measures
+
+The following DAX measures were created in Power BI to calculate key supply chain performance metrics:
+
+| DAX Measure                | Purpose                                                 |
+| -------------------------- | ------------------------------------------------------- |
+| **Total Orders**           | Counts the total number of orders.                      |
+| **Total Sales**            | Calculates the total sales generated.                   |
+| **Total Profit**           | Calculates the total profit generated.                  |
+| **Average Order Value**    | Calculates the average value per order.                 |
+| **Average Delivery Delay** | Calculates the average delay in delivery.               |
+| **On-Time Delivery %**     | Calculates the percentage of orders delivered on time.  |
+| **Late Delivery %**        | Calculates the percentage of deliveries that were late. |
+| **Late Order Rate %**      | Calculates the percentage of orders classified as late. |
+
+These measures are used in the Power BI dashboard to monitor overall sales, profitability, order performance, and delivery performance.
